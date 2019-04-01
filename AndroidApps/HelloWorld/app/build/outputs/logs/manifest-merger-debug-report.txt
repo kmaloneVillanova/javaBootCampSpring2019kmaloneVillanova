@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\923de6c3ddfeba09508e2438e3b4f151\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bd1388c95f76d6098ad1d46bef0ccff4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\49a071d5a44fe15656d67bc4ac26e572\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ebcedbc6c45ac3c5f51951dfc36c2f3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8f2617449bd8050f7a44760f3af09fb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7ab1836b4d350f05cc0c61c4559f2d8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ba17491a7d587c6bbfee6afd67bb2b55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\22b952bfa7c2470db5ce07c7cec03b1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\83a078b4ad1678ab58d2599dd8884603\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\140bb0216fd38e5487707db27ae90c87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\652f00309f2429c6eb14162028f460d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\303fcf86305903106b105dedfbe7acdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\09858ab6a1052405dba8e84c07cebda5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\94e8b309b68915be63eee467a7025974\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\36d121b203d60b8fd2d5de32b10591c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6a93647d976ed7bdf06fb3aed41f2c7d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\90dbc9ece42ab3ccb3f0caff97f7c29a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5eeed6e8e899a14b5e55b3c0849874c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\36e33996cf02da5e66a70d8ac5957a6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b9f3d02afe395ff775319a81225619f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\775682ad8b25e0dfa298caffc52e057e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4379cd23e7d5d884b1690749af2601e0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d501e3b25b88679c4975f50d32e4b2e6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\aac8cd31912d7cb485a2a970fe5dfee0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2caf04f17520eca5756a27097ed9e4fd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\39807c5b4934d71bd64007f6410daac7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\16cc99a6966be4308730758a697a2823\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bd1388c95f76d6098ad1d46bef0ccff4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bd1388c95f76d6098ad1d46bef0ccff4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6a93647d976ed7bdf06fb3aed41f2c7d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6a93647d976ed7bdf06fb3aed41f2c7d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\90dbc9ece42ab3ccb3f0caff97f7c29a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\90dbc9ece42ab3ccb3f0caff97f7c29a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6a93647d976ed7bdf06fb3aed41f2c7d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:11:9-40
+activity#edu.gatech.seclass.helloworld.MainActivity
+ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\923de6c3ddfeba09508e2438e3b4f151\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\923de6c3ddfeba09508e2438e3b4f151\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bd1388c95f76d6098ad1d46bef0ccff4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bd1388c95f76d6098ad1d46bef0ccff4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\49a071d5a44fe15656d67bc4ac26e572\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\49a071d5a44fe15656d67bc4ac26e572\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ebcedbc6c45ac3c5f51951dfc36c2f3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ebcedbc6c45ac3c5f51951dfc36c2f3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8f2617449bd8050f7a44760f3af09fb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8f2617449bd8050f7a44760f3af09fb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7ab1836b4d350f05cc0c61c4559f2d8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7ab1836b4d350f05cc0c61c4559f2d8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ba17491a7d587c6bbfee6afd67bb2b55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ba17491a7d587c6bbfee6afd67bb2b55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\22b952bfa7c2470db5ce07c7cec03b1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\22b952bfa7c2470db5ce07c7cec03b1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\83a078b4ad1678ab58d2599dd8884603\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\83a078b4ad1678ab58d2599dd8884603\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\140bb0216fd38e5487707db27ae90c87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\140bb0216fd38e5487707db27ae90c87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\652f00309f2429c6eb14162028f460d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\652f00309f2429c6eb14162028f460d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\303fcf86305903106b105dedfbe7acdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\303fcf86305903106b105dedfbe7acdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\09858ab6a1052405dba8e84c07cebda5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\09858ab6a1052405dba8e84c07cebda5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\94e8b309b68915be63eee467a7025974\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\94e8b309b68915be63eee467a7025974\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\36d121b203d60b8fd2d5de32b10591c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\36d121b203d60b8fd2d5de32b10591c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6a93647d976ed7bdf06fb3aed41f2c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6a93647d976ed7bdf06fb3aed41f2c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\90dbc9ece42ab3ccb3f0caff97f7c29a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\90dbc9ece42ab3ccb3f0caff97f7c29a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5eeed6e8e899a14b5e55b3c0849874c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5eeed6e8e899a14b5e55b3c0849874c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\36e33996cf02da5e66a70d8ac5957a6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\36e33996cf02da5e66a70d8ac5957a6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b9f3d02afe395ff775319a81225619f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b9f3d02afe395ff775319a81225619f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\775682ad8b25e0dfa298caffc52e057e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\775682ad8b25e0dfa298caffc52e057e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4379cd23e7d5d884b1690749af2601e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4379cd23e7d5d884b1690749af2601e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d501e3b25b88679c4975f50d32e4b2e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d501e3b25b88679c4975f50d32e4b2e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\aac8cd31912d7cb485a2a970fe5dfee0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\aac8cd31912d7cb485a2a970fe5dfee0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2caf04f17520eca5756a27097ed9e4fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2caf04f17520eca5756a27097ed9e4fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\39807c5b4934d71bd64007f6410daac7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\39807c5b4934d71bd64007f6410daac7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\16cc99a6966be4308730758a697a2823\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kathl\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\16cc99a6966be4308730758a697a2823\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kathl\OneDrive\Documents\Git\javaBootCampSpring2019kmaloneVillanova\AndroidApps\HelloWorld\app\src\main\AndroidManifest.xml
