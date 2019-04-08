@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/emoji_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/happy" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/happy_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="happy"
+                android:onClick="changeEmoji" />
+
+            <RadioButton
+                android:id="@+id/love_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="love"
+                android:onClick="changeEmoji" />
+
+            <RadioButton
+                android:id="@+id/nerd_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="nerd"
+                android:onClick="changeEmoji" />
+
+            <RadioButton
+                android:id="@+id/thinking_face_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="thinking"
+                android:onClick="changeEmoji" />
+        </RadioGroup>
+</LinearLayout>
