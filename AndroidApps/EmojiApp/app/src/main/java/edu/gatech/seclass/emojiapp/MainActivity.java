@@ -40,6 +40,5 @@ public class MainActivity extends AppCompatActivity {
             emojiImage.setImageResource(R.drawable.nerd);
         if(thinkingButton.isChecked())
             emojiImage.setImageResource(R.drawable.thinking_face);
-
     }
 }

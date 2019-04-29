@@ -11,7 +11,7 @@
         android:id="@+id/emoji_image"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/happy" />
+        android:src="@drawable/happy"/>
 
         <RadioGroup
             android:layout_width="match_parent"
